@@ -1,0 +1,28 @@
+.box{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+}
+.box1{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+.box2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
